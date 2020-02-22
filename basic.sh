@@ -2,7 +2,7 @@
 
 OSK="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 
-macOS=$HOME/macOS-QEMU
+macOS=$PWD/macOS-QEMU
 #export QEMU_AUDIO_DRV=pa
 #QEMU_AUDIO_DRV=pa
 
